@@ -3,4 +3,4 @@
 Its preview is as follows:-
 
 
-![My Image](webpage_preview.JPG)
+![My Image](preview.JPG)
